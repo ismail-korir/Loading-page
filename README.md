@@ -7,11 +7,7 @@ A stylish and interactive loading page built using HTML5, CSS3, and JavaScript t
 
 - [About](#about)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
